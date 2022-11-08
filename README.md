@@ -1,11 +1,19 @@
 Hello there football fan!
+
 If you want to enjoy Power World Cup, then first you should do the following:
-1)	Download the solution.
-2)	Download Excel Files with the required data (Countries, Players, Matches, etc.)
+
+1)	Download the solution. https://github.com/Power365initiatives/PowerWorldCup/releases/tag/PowerWorldCup
+
+2)	Download Excel Files with the required data (Countries, Players, Matches, etc.) https://github.com/Power365initiatives/PowerWorldCup/releases/download/PowerWorldCup/DataImport.zip
+
 3)	Import the solution and Publish
+
 4)	Import the Excel Files
+
 5)	Go to FootAPI URL: https://rapidapi.com/fluis.lacasse/api/footapi7
+
 6)	Sign Up
+
 7)	After you signed up, click in Subscribe button
 ![image](https://user-images.githubusercontent.com/117593801/200523822-4155f47d-b235-4d0e-95c3-144c3a3c8a3e.png)
 
