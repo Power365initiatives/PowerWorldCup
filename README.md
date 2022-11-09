@@ -41,3 +41,5 @@ footapi7.p.rapidapi.com
 15) Share the Canvas App with users by assigning the role named: Power World Cup Security role
 
 16)	You are ready to play with your friends, enjoy!
+
+17) Optional: download flags.zip file, then you can upaload the corresponding image in each record of the Country table.
