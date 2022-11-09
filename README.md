@@ -38,4 +38,6 @@ https://footapi7.p.rapidapi.com/api/
 14)	 Make sure the value of Foot API URL environment variable be this:
 footapi7.p.rapidapi.com
 
-15)	You are ready to play with your friends, enjoy!
+15) Share the Canvas App with users by assigning the role named: Power World Cup Security role
+
+16)	You are ready to play with your friends, enjoy!
